@@ -34,3 +34,4 @@
 - chore: add a note about the defaults
 - docs: link the usage section
 - docs: link the usage section
+- docs: clarify the setup steps

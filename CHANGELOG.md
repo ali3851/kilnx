@@ -35,3 +35,4 @@
 - docs: link the usage section
 - docs: link the usage section
 - docs: clarify the setup steps
+- docs: clarify the setup steps
